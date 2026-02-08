@@ -17,3 +17,4 @@
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ProniaOnionPersistence.pdb
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ProniaOnionPersistence.genruntimeconfig.cache
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ref/ProniaOnionPersistence.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ProniaOnionPersistence.sourcelink.json

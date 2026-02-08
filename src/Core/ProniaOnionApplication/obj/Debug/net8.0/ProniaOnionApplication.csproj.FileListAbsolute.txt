@@ -13,3 +13,4 @@
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/refint/ProniaOnionApplication.dll
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/ProniaOnionApplication.pdb
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/ref/ProniaOnionApplication.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/ProniaOnionApplication.sourcelink.json

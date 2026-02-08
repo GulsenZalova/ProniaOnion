@@ -56,7 +56,7 @@ namespace ProniaOnion.Persistence
                 return false;
             }
 
-            await _repository.AddAsync(new Category { Name = categoryDTO.Name });
+            await _repository.AddAsync(new Category { Name = categoryDTO.Name,CreatedAt= DateTime.Now,CreatedBy="Admin"});
             await _repository.SaveChangesAsync();
             return true;
         }
@@ -86,6 +86,7 @@ namespace ProniaOnion.Persistence
             }
 
             category.Name = categoryDTO.Name;
+            category.ModifiedAt= DateTime.Now;
             _repository.Update(category);
             await _repository.SaveChangesAsync();
         }

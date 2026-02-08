@@ -9,3 +9,4 @@
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnion.Domain/obj/Debug/net8.0/refint/ProniaOnion.Domain.dll
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnion.Domain/obj/Debug/net8.0/ProniaOnion.Domain.pdb
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnion.Domain/obj/Debug/net8.0/ref/ProniaOnion.Domain.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnion.Domain/obj/Debug/net8.0/ProniaOnion.Domain.sourcelink.json

@@ -3,8 +3,8 @@ using ProniaOnion.src.Application;
 
 namespace ProniaOnion.API.Controllers
 {
-    [Route("/[controller]")]
-    [ApiController]
+[ApiController]
+[Route("api/[controller]")]
     public class CategoriesController : ControllerBase
     {
         

@@ -15,3 +15,4 @@
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/refint/ProniaOnionInfrastructure.dll
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/ProniaOnionInfrastructure.pdb
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/ref/ProniaOnionInfrastructure.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/ProniaOnionInfrastructure.sourcelink.json

@@ -2,16 +2,12 @@ using ProniaOnion.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-
-
 builder.Services.AddPersistenceService(builder.Configuration);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-
 
 if (app.Environment.IsDevelopment())
 {
@@ -20,9 +16,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.MapControllers();
 
 
 app.Run();
-
-
