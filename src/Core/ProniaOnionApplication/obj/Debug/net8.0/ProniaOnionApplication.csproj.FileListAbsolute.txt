@@ -1,0 +1,15 @@
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/bin/Debug/net8.0/ProniaOnionApplication.deps.json
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/bin/Debug/net8.0/ProniaOnionApplication.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/bin/Debug/net8.0/ProniaOnionApplication.pdb
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/bin/Debug/net8.0/ProniaOnion.Domain.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/bin/Debug/net8.0/ProniaOnion.Domain.pdb
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/ProniaOnionApplication.csproj.AssemblyReference.cache
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/ProniaOnionApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/ProniaOnionApplication.AssemblyInfoInputs.cache
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/ProniaOnionApplication.AssemblyInfo.cs
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/ProniaOnionApplication.csproj.CoreCompileInputs.cache
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/ProniaOn.129B0640.Up2Date
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/ProniaOnionApplication.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/refint/ProniaOnionApplication.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/ProniaOnionApplication.pdb
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Core/ProniaOnionApplication/obj/Debug/net8.0/ref/ProniaOnionApplication.dll

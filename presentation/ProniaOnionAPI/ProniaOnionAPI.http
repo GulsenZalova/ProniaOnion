@@ -1,0 +1,6 @@
+@ProniaOnionAPI_HostAddress = http://localhost:5294
+
+GET {{ProniaOnionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

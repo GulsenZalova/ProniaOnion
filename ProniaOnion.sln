@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "presentation", "presentation", "{1F250698-4FF6-4A0D-A0C2-DB58FFFED83E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProniaOnionAPI", "presentation\ProniaOnionAPI\ProniaOnionAPI.csproj", "{DF71D163-81BA-4597-AF51-0F92CFBFCAE9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B3A8CC25-7248-48CD-999C-E90FE095A0F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{2682700E-D707-4DBD-8B88-EE36EE5EC280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProniaOnionApplication", "src\Core\ProniaOnionApplication\ProniaOnionApplication.csproj", "{CBADAFC8-7BA4-47BC-B25F-0BC4F7373558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProniaOnion.Domain", "src\Core\ProniaOnion.Domain\ProniaOnion.Domain.csproj", "{E0F0A88E-5B98-4FB6-9945-CE0C983E9E57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{F3985572-4A7F-49FB-881A-B12A313304BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProniaOnionInfrastructure", "src\Infrastructure\ProniaOnionInfrastructure\ProniaOnionInfrastructure.csproj", "{06D40E92-14BA-4B2F-961E-8A22A3C9983A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProniaOnionPersistence", "src\Infrastructure\ProniaOnionPersistence\ProniaOnionPersistence.csproj", "{F9029128-8C7B-41CC-A828-8A18A4CD7A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF71D163-81BA-4597-AF51-0F92CFBFCAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF71D163-81BA-4597-AF51-0F92CFBFCAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF71D163-81BA-4597-AF51-0F92CFBFCAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF71D163-81BA-4597-AF51-0F92CFBFCAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBADAFC8-7BA4-47BC-B25F-0BC4F7373558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBADAFC8-7BA4-47BC-B25F-0BC4F7373558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBADAFC8-7BA4-47BC-B25F-0BC4F7373558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBADAFC8-7BA4-47BC-B25F-0BC4F7373558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F0A88E-5B98-4FB6-9945-CE0C983E9E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F0A88E-5B98-4FB6-9945-CE0C983E9E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F0A88E-5B98-4FB6-9945-CE0C983E9E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F0A88E-5B98-4FB6-9945-CE0C983E9E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D40E92-14BA-4B2F-961E-8A22A3C9983A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D40E92-14BA-4B2F-961E-8A22A3C9983A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D40E92-14BA-4B2F-961E-8A22A3C9983A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D40E92-14BA-4B2F-961E-8A22A3C9983A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9029128-8C7B-41CC-A828-8A18A4CD7A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9029128-8C7B-41CC-A828-8A18A4CD7A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9029128-8C7B-41CC-A828-8A18A4CD7A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9029128-8C7B-41CC-A828-8A18A4CD7A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DF71D163-81BA-4597-AF51-0F92CFBFCAE9} = {1F250698-4FF6-4A0D-A0C2-DB58FFFED83E}
+		{2682700E-D707-4DBD-8B88-EE36EE5EC280} = {B3A8CC25-7248-48CD-999C-E90FE095A0F6}
+		{CBADAFC8-7BA4-47BC-B25F-0BC4F7373558} = {2682700E-D707-4DBD-8B88-EE36EE5EC280}
+		{E0F0A88E-5B98-4FB6-9945-CE0C983E9E57} = {2682700E-D707-4DBD-8B88-EE36EE5EC280}
+		{F3985572-4A7F-49FB-881A-B12A313304BD} = {B3A8CC25-7248-48CD-999C-E90FE095A0F6}
+		{06D40E92-14BA-4B2F-961E-8A22A3C9983A} = {F3985572-4A7F-49FB-881A-B12A313304BD}
+		{F9029128-8C7B-41CC-A828-8A18A4CD7A0B} = {F3985572-4A7F-49FB-881A-B12A313304BD}
+	EndGlobalSection
+EndGlobal

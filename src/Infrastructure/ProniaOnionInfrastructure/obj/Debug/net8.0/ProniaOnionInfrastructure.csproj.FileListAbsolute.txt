@@ -1,0 +1,17 @@
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/bin/Debug/net8.0/ProniaOnionInfrastructure.deps.json
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/bin/Debug/net8.0/ProniaOnionInfrastructure.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/bin/Debug/net8.0/ProniaOnionInfrastructure.pdb
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/bin/Debug/net8.0/ProniaOnion.Domain.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/bin/Debug/net8.0/ProniaOnionApplication.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/bin/Debug/net8.0/ProniaOnionApplication.pdb
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/bin/Debug/net8.0/ProniaOnion.Domain.pdb
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/ProniaOnionInfrastructure.csproj.AssemblyReference.cache
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/ProniaOnionInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/ProniaOnionInfrastructure.AssemblyInfoInputs.cache
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/ProniaOnionInfrastructure.AssemblyInfo.cs
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/ProniaOnionInfrastructure.csproj.CoreCompileInputs.cache
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/ProniaOn.35D34448.Up2Date
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/ProniaOnionInfrastructure.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/refint/ProniaOnionInfrastructure.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/ProniaOnionInfrastructure.pdb
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionInfrastructure/obj/Debug/net8.0/ref/ProniaOnionInfrastructure.dll
