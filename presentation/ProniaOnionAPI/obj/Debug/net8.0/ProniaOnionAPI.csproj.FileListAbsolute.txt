@@ -150,3 +150,4 @@
 /Users/gulshanzalova/Desktop/ProniaOnion/presentation/ProniaOnionAPI/obj/Debug/net8.0/ProniaOnionAPI.genruntimeconfig.cache
 /Users/gulshanzalova/Desktop/ProniaOnion/presentation/ProniaOnionAPI/obj/Debug/net8.0/ref/ProniaOnionAPI.dll
 /Users/gulshanzalova/Desktop/ProniaOnion/presentation/ProniaOnionAPI/obj/Debug/net8.0/ProniaOnionAPI.sourcelink.json
+/Users/gulshanzalova/Desktop/ProniaOnion/presentation/ProniaOnionAPI/bin/Debug/net8.0/AutoMapper.dll

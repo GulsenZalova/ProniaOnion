@@ -1,8 +1,10 @@
+using ProniaOnion.Application;
 using ProniaOnion.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddPersistenceService(builder.Configuration);
+builder.Services.AddApplicationService();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
