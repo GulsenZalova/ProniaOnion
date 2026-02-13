@@ -151,3 +151,8 @@
 /Users/gulshanzalova/Desktop/ProniaOnion/presentation/ProniaOnionAPI/obj/Debug/net8.0/ref/ProniaOnionAPI.dll
 /Users/gulshanzalova/Desktop/ProniaOnion/presentation/ProniaOnionAPI/obj/Debug/net8.0/ProniaOnionAPI.sourcelink.json
 /Users/gulshanzalova/Desktop/ProniaOnion/presentation/ProniaOnionAPI/bin/Debug/net8.0/AutoMapper.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/presentation/ProniaOnionAPI/bin/Debug/net8.0/FluentValidation.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/presentation/ProniaOnionAPI/bin/Debug/net8.0/FluentValidation.AspNetCore.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/presentation/ProniaOnionAPI/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/presentation/ProniaOnionAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/gulshanzalova/Desktop/ProniaOnion/presentation/ProniaOnionAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll

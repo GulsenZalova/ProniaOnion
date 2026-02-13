@@ -11,10 +11,10 @@
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ProniaOnionPersistence.AssemblyInfoInputs.cache
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ProniaOnionPersistence.AssemblyInfo.cs
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ProniaOnionPersistence.csproj.CoreCompileInputs.cache
+/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ProniaOnionPersistence.sourcelink.json
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ProniaOn.36458E2C.Up2Date
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ProniaOnionPersistence.dll
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/refint/ProniaOnionPersistence.dll
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ProniaOnionPersistence.pdb
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ProniaOnionPersistence.genruntimeconfig.cache
 /Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ref/ProniaOnionPersistence.dll
-/Users/gulshanzalova/Desktop/ProniaOnion/src/Infrastructure/ProniaOnionPersistence/obj/Debug/net8.0/ProniaOnionPersistence.sourcelink.json

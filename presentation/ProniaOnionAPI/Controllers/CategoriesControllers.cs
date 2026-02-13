@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using ProniaOnion.src.Application;
 
@@ -17,6 +18,7 @@ namespace ProniaOnion.API.Controllers
 
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Get(int page=2,int take=5 )
         {
             // Skip(nece data oturmek lazimdir)
